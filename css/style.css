@@ -64,3 +64,22 @@ div {
 
     display: inline-block;
 }
+
+p {
+
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'Macondo', cursive;
+}
+
+#matite {
+
+    width: 400px;
+    height: 300px;
+    border: solid 5px black;
+    background-image: url(../img/download.jpeg);
+    background-size: cover;
+
+
+}
+
