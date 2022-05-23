@@ -1,0 +1,66 @@
+.centro {
+
+    text-align: center;
+}
+
+.destro {
+
+    text-align: right;
+}
+
+.sinistro {
+
+    text-align: left;
+}
+
+.evidenziatore {
+
+    background-color: black;
+    width:  500px; /*questa regola è ignorata perche il tag è di tipo inline */
+}
+
+.bordoa {
+
+    border-style: dashed;
+    border-color: red;
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+
+
+}
+
+
+.bordob {
+
+    border-style: dotted;
+    width: 500px;
+    height: 250px;
+    background-color: red;
+}
+
+
+.bordoc {
+
+    border-style: groove;
+    width: 500px;
+    height: 200px;
+    background-color: green;
+    
+    
+}
+
+
+.bordod {
+
+    border-style: outset;
+    width: 500px;
+    height: 150px;
+    background: aqua;
+}
+
+
+div { 
+
+    display: inline-block;
+}
